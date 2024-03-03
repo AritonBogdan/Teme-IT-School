@@ -5,9 +5,9 @@ public class Tema_3 {
 //-copierea proiectului local
 //-crearea unui nou branch
 //-care este denumirea branch-ului principal?
-        /* Branch2 */
+        /* master */
 //-care este comanda prin care putem sa ne reîntoarcem pe branch-ul main?
-        /* cd */
+        /* git checkout master */
 //
 //Intrebarile de teorie le vom adaugă într-un fișier separat
     }
