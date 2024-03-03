@@ -7,7 +7,7 @@ public class Tema_3 {
 //-care este denumirea branch-ului principal?
         /** master */
 //-care este comanda prin care putem sa ne reîntoarcem pe branch-ul main?
-        /** git checkout main */
+        /** git checkout master */
 //
 //Intrebarile de teorie le vom adaugă într-un fișier separat
     }
