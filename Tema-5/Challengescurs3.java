@@ -1,9 +1,9 @@
-public class Challengescurs3 {
-    public static void main(String[] args) {
-//        Binary Arithmetic Operators
-        /** Write a JAVA program to take two numbers as input and display the result of addition,
-         *  subtraction, multiplication, division and modulus*/
-        int x = 4, y = 2;
+//public class Challengescurs3 {
+//    public static void main(String[] args) {
+////        Binary Arithmetic Operators
+//        /** Write a JAVA program to take two numbers as input and display the result of addition,
+//         *  subtraction, multiplication, division and modulus*/
+//        int x = 4, y = 2;
 //        System.out.println("Addition x+y= " + (x + y));
 //        System.out.println("Subtraction x-y= " + (x - y));
 //        System.out.println("Multiplication x*y= " + (x * y));
@@ -134,5 +134,5 @@ public class Challengescurs3 {
 //        System.out.println(u+i);
 
 
-    }
-}
+//    }
+//}
