@@ -128,10 +128,10 @@ public class Challengescurs3 {
 //        System.out.println(g * f); // Rezultatul este double deoarece conform numeric promotion double este mai mare!
         /** Create a program that takes two byte values, adds them together, and stores the result in a byte variabile
          * Explain why the result is or isn't what you'd expected, based on the rules on the numeric promotion.*/
-        long u = 33, i = 55;
+//        long u = 33, i = 55;
 //        byte t = u + i; /** java: incompatible types: possible lossy conversion from long to byte */
 //        System.out.println(t); /** java: incompatible types: possible lossy conversion from long to byte */
-        System.out.println(u+i);
+//        System.out.println(u+i);
 
 
     }
