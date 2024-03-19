@@ -1,0 +1,21 @@
+
+Ce inseamna o clasa in java?
+În Java, o clasă este o șablon sau un model pentru crearea obiectelor. O clasă definește comportamentul și caracteristicile obiectelor.
+ Ea poate conține atribute (variabile de instanță) și metode (funcții) care definesc comportamentul obiectelor respective.
+
+
+Ce inseamna o metoda?
+În Java, o metodă reprezintă un bloc de cod care definește comportamentul sau acțiunile asociate cu o clasă. 
+Metodele sunt utilizate pentru a realiza anumite operații sau pentru a furniza funcționalități specifice în cadrul unei clase.
+ Ele sunt esențiale pentru încapsularea comportamentului unei clase și pentru interacțiunea cu obiectele acelei clase.
+
+
+Ce inseamna o proprietate?
+În contextul programării, termenul "proprietate" poate avea diverse semnificații în funcție de limbajul de programare și de contextul
+în care este utilizat. În general, însă, o "proprietate" este o caracteristică a unei entități sau a unei clase care definește starea 
+sau comportamentul acelei entități sau clase.
+
+
+Ce inseamna o un constructor?
+În Java, un constructor este o metodă specială care este invocată atunci când un obiect este creat folosind operatorul new. 
+Scopul principal al unui constructor este de a inițializa obiectul și de a-i atribui o stare inițială.
