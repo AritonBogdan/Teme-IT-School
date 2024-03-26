@@ -20,7 +20,7 @@ public class Recipe {
         this.ingredients = ingredients;
     }
 
-    // Method to check if a recipe has a specific ingredient
+    /** Method to check if a recipe has a specific ingredient*/
     public boolean hasIngredient(String ingredient) {
         return ingredients.contains(ingredient);
     }

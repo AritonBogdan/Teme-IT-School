@@ -12,7 +12,7 @@ public class RecipeBook {
         recipes.add(recipe);
     }
 
-    // Method to search for recipes based on ingredients
+    /**Method to search for recipes based on ingredients*/
     public List<Recipe> searchByIngredient(String ingredient) {
         List<Recipe> result = new ArrayList<>();
         for (Recipe recipe : recipes) {

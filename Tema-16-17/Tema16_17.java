@@ -14,7 +14,7 @@ public class Tema16_17 {
 
         RecipeBook recipeBook = new RecipeBook();
 
-        // Adding recipes to the recipe book
+        /** Adding recipes to the recipe book*/
         List<String> ingredients1 = new ArrayList<>();
         ingredients1.add("flour");
         ingredients1.add("milk");
@@ -24,21 +24,21 @@ public class Tema16_17 {
 
         List<String> ingredients2 = new ArrayList<>();
         ingredients2.add("eggs");
-        ingredients2.add("Salt");
-        ingredients2.add("Pepper");
+        ingredients2.add("salt");
+        ingredients2.add("sepper");
         Recipe recipe2 = new Recipe("Grilled eggs", ingredients2);
         recipeBook.addRecipe(recipe2);
 
-        // Searching for recipes based on ingredients
-        // Creating a list to store recipes with milk
+       /** Searching for recipes based on ingredients
+        // Creating a list to store recipes with milk*/
         List<Recipe> recipesWithMilk = new ArrayList<>();
 
-        // Searching for recipes containing milk
+        /**Searching for recipes containing milk*/
         List<Recipe> foundRecipes = recipeBook.searchByIngredient("milk");
         System.out.println("Recipes containing Milk:" + foundRecipes);
         for (Recipe recipe : foundRecipes) {
             System.out.println(recipe.getName());
-            // Add the recipe to recipesWithMilk list
+            /**Add the recipe to recipesWithMilk list*/
             recipesWithMilk.add(recipe);
         }
 
