@@ -1,0 +1,24 @@
+1.What is casting in Java?
+In Java, casting refers to the process of converting a value from one data type to another. 
+This is particularly useful when you want to assign a value of one type to a variable of another type, or when you need 
+to perform operations that involve different data types.
+
+
+2.What is memory reference?
+        A memory reference in computer science refers to a way of accessing data stored in memory. 
+ It typically involves obtaining the address of a particular memory location where the data is stored.
+ This address serves as a reference or pointer to the location of the data in memory.
+
+3.What are decision constructs in Java? If, else?
+
+Decision constructs in Java are programming structures that allow you to execute different blocks of code based on certain conditions. 
+The most common decision constructs in Java are the if, else if, and else statements.
+
+IF statement: The if statement is used to execute a block of code if a specified condition is true.
+ If the condition is false, the code block associated with the if statement is skipped.
+
+ELSE IF statement: The else if statement allows you to specify additional conditions to be tested if the preceding
+ if statement's condition is false. It can be used multiple times to test multiple conditions sequentially.
+
+ELSE statement: The else statement is used to execute a block of code if none of the preceding conditions in the if and
+ else if statements are true. It does not have a condition associated with it and is typically used as a fallback option.

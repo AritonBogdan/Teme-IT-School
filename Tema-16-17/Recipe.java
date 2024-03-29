@@ -10,17 +10,21 @@ public class Recipe {
     }
 
     public String getName() {
+
         return name;
     }
 
     public List<String> getIngredients() {
         return ingredients;
     }
+
     public void setIngredients(List<String> ingredients) {
         this.ingredients = ingredients;
     }
 
-    /** Method to check if a recipe has a specific ingredient*/
+    /**
+     * Method to check if a recipe has a specific ingredient
+     */
     public boolean hasIngredient(String ingredient) {
         return ingredients.contains(ingredient);
     }
