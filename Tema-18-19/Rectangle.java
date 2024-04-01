@@ -2,6 +2,8 @@ public class Rectangle {
 
     private double width;
     private double heigth;
+
+
 /**Defaylt construct*/
     public Rectangle() {
         this.width = 1;
